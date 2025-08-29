@@ -27,4 +27,5 @@ It focuses on **inheritance** and **polymorphism**, showing how different flower
 
 ```bash
 python class.py
+python polymorphism.py
 ```
