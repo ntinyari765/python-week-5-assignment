@@ -1,4 +1,4 @@
-git# Creating a class to represent a flower
+# Creating a class to represent a flower
 # Parent class
 class Flower:
     def __init__(self, name, color, season):
